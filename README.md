@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=24&section=header&text=Welcome%to%my%github&fontSize=20)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyseong)](https://github.com/dannyseong/github-readme-stats)
 [![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyseong)](https://github.com/dannyseong/github-readme-stats)
 
@@ -8,6 +10,9 @@
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![NODE](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![PYTHON](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 <!--
 **dannyseong/dannyseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
