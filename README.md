@@ -1,7 +1,10 @@
 ### Hi there 👋
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![NODE](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white)
 <!--
 **dannyseong/dannyseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
