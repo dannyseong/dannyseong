@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   ![NODE](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![PYTHON](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ## Framwork/Tools
-  ![React Query](https://img.shields.io/badge/React%Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+  ![React Query](https://img.shields.io/badge/React%Query-FF4154?style=for-the-badge&logo=react%query&logoColor=white)
