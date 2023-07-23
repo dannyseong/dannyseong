@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyseong)](https://github.com/dannyseong/github-readme-stats)
-[![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyseong)](https://github.com/dannyseong/github-readme-stats)
 
 ## Language/Markup
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
