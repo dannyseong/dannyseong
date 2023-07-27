@@ -3,6 +3,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: daehoon.seong@gmail.com
 
+![Frequency](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyseong&layout=compact)
 
 ## Language/Markup
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
